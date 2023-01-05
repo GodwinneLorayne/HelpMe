@@ -10,3 +10,6 @@ Git LFS 3.3.0
 
 git config core.eol lf
 git config core.autocrlf false
+
+Edit -> Preferences -> External Tools -> External Script Editor -> Visual Studio Code
+Edit -> Preferences -> External Tools -> External Script Editor Args -> $(File)
